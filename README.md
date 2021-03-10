@@ -4,4 +4,4 @@
 
 A sample GitHub actions workflow to execute Robot Framework tests in headless Firefox inside a GitHub actions workflow. See [headless-robot.yml](.github/workflows/headless-robot.yml) and [login.robot](login.robot).
 
-Inspired by [Eficode Academy's Robot Framework training].
+Inspired by [Eficode Academy's Robot Framework training](https://github.com/eficode-academy/rf-katas).
